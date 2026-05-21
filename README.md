@@ -51,6 +51,19 @@ The goal of this project is to practice SQL from a Quality Assurance perspective
 - Checking business rules through queries
 - Thinking beyond the UI by validating backend data
 
+## Query Examples
+
+### Join Investigation
+
+![Join Investigation](screenshots/join-investigation.png)
+
+### Negative Order Validation
+
+![Negative Order Validation](screenshots/negative-order-validation.png)
+
+### QA Data Validation
+
+![QA Validation](screenshots/qa-data-validation.png)
 ## Author
 
 Thiago Queiroz Meneses dos Santos
